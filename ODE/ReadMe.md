@@ -1,1 +1,1 @@
-Solves for the current in a series RLC circuit
+Jupyter notebook that solves for the current in a series RLC circuit.  The capacitor is charged, a switch closes at t = 0 and we calculate the current flow in the circuit as the capacitor discharges.  The user can elect to solve for the under-, critically-, and over-damped cases, depending on the value of R selected. 
