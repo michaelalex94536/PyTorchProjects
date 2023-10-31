@@ -1,12 +1,12 @@
-In the "1DLinearRegression.ipynb" Jupyter Norebook, we solve for the slope $m$ and $y$-intercept b in the equation 
+In the "1DLinearRegression.ipynb" Jupyter Norebook, we solve for the slope $m$ and $y$-intercept $b$ in the equation 
 <br>
 <br>
 
-y = m * X + b~,~~~~~~~~~~~~~~~~~~~~~~(1)
+$y$ = $m$ * $X$ + $b$~,~~~~~~~~~~~~~~~~~~~~~~(1)
 
 <br>
 
-where X is the independent variable and y is a series of samples having noise. 
+where $X$ is the independent variable and $y$ is a series of samples having noise. 
  
 <br>
 <br>
