@@ -14,7 +14,7 @@ We will specify "ground truth" values of *m* and *b*, generate noise-contaminate
 
 <br>
 
-We will find $m$ and $b$ using three different methods:
+We will find *m* and *b* using three different methods:
 <br>
 1. Using the scikit-learn linear regression estimator
 <br>
