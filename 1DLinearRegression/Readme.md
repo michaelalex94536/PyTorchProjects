@@ -1,4 +1,4 @@
-In the "1DLinearRegression.ipynb" Jupyter Norebook, we solve for the slope m and $y$-intercept b in the equation 
+In the "1DLinearRegression.ipynb" Jupyter Norebook, we solve for the slope $m$ and $y$-intercept b in the equation 
 <br>
 <br>
 
