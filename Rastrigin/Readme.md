@@ -4,4 +4,21 @@
 See the following blog post: 
 https://en.wikipedia.org/wiki/Rastrigin_function
 
+
+Here is the 1D Rastrigin function
+<br>
+<br>
+$$
+f(x) = 10 + x^2 -10~cos(2\pi~x)~.~~~~~~~~~~~~~~~~~~~~~~(1)
+$$
+<br>
+
+In this notebook, we show how to use gradient descent in PyTorch to solve for coefficients $A$ and $B$ in the more general form:
+<br>
+<br>
+$$
+f(x) = A + x^2 -B~cos(2\pi~x)~.~~~~~~~~~~~~~~~~~~~~~~(2)
+$$
+<br>
+
 ![Signal](https://github.com/michaelalex94536/PyTorchProjects/blob/main/Rastrigin/images/Rastrigin.png)
